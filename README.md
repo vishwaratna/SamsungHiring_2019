@@ -1,4 +1,4 @@
-# SamsungHiring_2019
+# SamsungHiring_2019  sponsored By techgig.com
 
 Samsung Hiring Coding Challange Solution By Vishwa Ratna in Java-8
 
